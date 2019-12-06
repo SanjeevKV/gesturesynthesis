@@ -1,0 +1,1 @@
+pipeline('/home/sanjeev/Documents/HeadMotionData/Telugu/Aravind/MocapOutput/', '/home/sanjeev/Documents/HeadMotionData/Telugu/Aravind/Coordinates/', '/home/sanjeev/Documents/HeadMotionData/Telugu/Aravind/HandDistance/', '/home/sanjeev/Documents/gesturesynthesis/HeadMotionRelatedCode/Old_HandMarkerNames.txt') 
